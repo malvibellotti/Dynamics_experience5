@@ -1,0 +1,1 @@
+./treecode in=Treecode_perturber.txt out=Treecode_perturber_out.txt dtime=0.05 eps=0.1 theta=0.1 tstop=50 dtout=0.5
