@@ -1,0 +1,1 @@
+./treecode in=Treecode.txt out=Treecodeout.txt dtime=0.001 eps=0.025 theta=0.1 tstop=1 dtout=0.001
